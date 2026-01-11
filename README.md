@@ -33,7 +33,7 @@ Hands-on notebooks, mini challenges, and reference material for mastering `panda
 2. Follow the Kaggle notebook sequence to build momentum with guided exercises.
 3. Dive into the focused practice notebooks (e.g., `group_by_.ipynb`) and replicate the code without looking to test retention.
 4. Use `Files/matches.csv` or datasets listed in [pandas-practice-datasets.md](./pandas-practice-datasets.md) to design your own mini-projects.
-
+5. 
 
 ## Tips for Self-Review
 
